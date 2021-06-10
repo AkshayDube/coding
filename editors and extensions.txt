@@ -1,0 +1,3 @@
+c++ extension , java extension , python extension and Code Runner extension
+ 
+for comiling c++ file ... g++ abc.cpp -o zzz // abc.cpp get compiled and zzz.exe is formed
